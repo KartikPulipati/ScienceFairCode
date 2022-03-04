@@ -7,3 +7,4 @@ data/
 test.ipynb
 image2.jpeg
 image.png
+*.pt
