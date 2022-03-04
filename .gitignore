@@ -8,3 +8,7 @@ test.ipynb
 image2.jpeg
 image.png
 *.pt
+cutStitched.py
+cutTest.py
+.gitignore
+stitchedImage.png
