@@ -1,0 +1,9 @@
+
+cut.py
+data/
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+test.ipynb
+image2.jpeg
+image.png
